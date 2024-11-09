@@ -45,7 +45,7 @@
 
 <div align="center" style="margin-top: 30px;">
   <h3 style="color: #F5F5F5;">Contact</h3>
-  <a href="https://discord.com/users/924133673538830356">
+  <a href="https://discord.gg/xd2arYjW">
     <img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=dark" alt="Discord" />
   </a>
 </div>
